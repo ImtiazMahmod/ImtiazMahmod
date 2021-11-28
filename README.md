@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...  Python
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/imtiazmahmod)
-- 😄 Pronouns: ...  He/
 - ⚡ Fun fact: ... Be positive, Be confident
 
