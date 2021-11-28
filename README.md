@@ -1,6 +1,5 @@
 ### Hey, I am here 👋
 
-<!--
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/imtiazmahmod)
 - 😄 Pronouns: ...  He/
 - ⚡ Fun fact: ... Be positive, Be confident
--->
+
