@@ -1,8 +1,6 @@
 ### Hey, I am here 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Home
 - 🌱 I’m currently learning ... MERN Stack
 - 👯 I’m looking to collaborate on ... MERN Stack
